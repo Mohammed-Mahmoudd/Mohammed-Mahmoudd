@@ -84,7 +84,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-mahmoudd&bg_color=050F2C&color=58A6FF&line=149414&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobadran&bg_color=050F2C&color=58A6FF&line=149414&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 ---
