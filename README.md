@@ -1,4 +1,4 @@
-<div align="center">
+![security-company](https://github.com/user-attachments/assets/d7aa0bfb-b2a5-46e0-a914-3638cc7cd788)<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mohamed%20Mahmoud&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
@@ -100,7 +100,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
           <h3 align="center">Weather App</h3>
           <div align="center">  
             <a href="https://github.com/mohammed-mahmoudd/Weather-App" target="_blank">
-              <img src="https://user-images.githubusercontent.com/59178452/168182298-1abd3f11-0c0a-4784-9105-3d20e7e828b6.png" alt="Weather App" height="250px" />
+              <img src="weatherApp.png" alt="Weather App" height="250px" />
             </a>
             <br>
             <br>
@@ -121,7 +121,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
           <h3 align="center">Security Company Website</h3>
           <div align="center">  
             <a href="https://github.com/mohammed-mahmoudd/Security-Company" target="_blank">
-              <img src="https://user-images.githubusercontent.com/59178452/168182319-21df1351-6885-4c6e-9a60-a0f8a88c2b86.png" alt="Security Company Website" height="250px" />
+              <img src="securityCompany.png" height="250px" />
             </a>
             <br>
             <br>
@@ -144,7 +144,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
           <h3 align="center">To-Do App</h3>
           <div align="center">  
             <a href="https://github.com/mohammed-mahmoudd/To-Do-App" target="_blank">
-              <img src="https://user-images.githubusercontent.com/59178452/168182311-51aa31e7-2303-4856-9192-0fbd15c40cf8.png" alt="To-Do App" height="250px" />
+              <img src="todoapp.png" alt="To-Do App" height="250px" />
             </a>
             <br>
             <br>
