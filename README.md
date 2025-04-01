@@ -76,7 +76,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&border_radius=10" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobadran&layout=compact&theme=algolia&border_radius=10" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=algolia&border_radius=10" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
