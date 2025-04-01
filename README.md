@@ -1,5 +1,9 @@
 # 💻 Mohamed | Front-End Developer
 
+<p align="center">
+  <img src="Coding.gif" alt="Coding Animation">
+</p>
+
 ## 🚀 About Me  
 Hey there! 👋 I'm **Mohamed**, a passionate **Front-End Developer** who loves crafting visually appealing and user-friendly web interfaces.  
 I enjoy turning complex problems into simple, beautiful, and intuitive designs.  
@@ -23,12 +27,6 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
-## 🎥 What I Do  
-![Coding GIF](Coding.gif)  
-![Code GIF](code.gif)  
-
----
-
 ## 📊 GitHub Stats  
 ![GitHub Snake](snake-dark.svg)  
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)  
@@ -46,4 +44,9 @@ I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)  
 
 ---  
+
+<p align="center">
+  <img src="code.gif" alt="Coding Animation">
+</p>
+
 🚀 **"Code, Build, Innovate!"**  
