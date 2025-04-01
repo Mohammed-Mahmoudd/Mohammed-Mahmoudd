@@ -80,11 +80,11 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mahmoudd&theme=algolia&border_radius=10" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=algolia&border_radius=10" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-mahmoudd&bg_color=050F2C&color=58A6FF&line=149414&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=050F2C&color=58A6FF&line=149414&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 ---
