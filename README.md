@@ -1,5 +1,4 @@
-![security-company](https://github.com/user-attachments/assets/d7aa0bfb-b2a5-46e0-a914-3638cc7cd788)<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mohamed%20Mahmoud&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mohamed%20Mahmoud&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
 <p align="center">
