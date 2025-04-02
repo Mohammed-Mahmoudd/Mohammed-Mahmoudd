@@ -112,7 +112,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
               </a>
             </p>
             <p>
-              <strong>HTML, CSS, JavaScript & Weather API</strong> - Interactive weather application with real-time updates, location search, responsive design, and dynamic weather icons based on conditions.
+              <strong>HTML, CSS, JavaScript & Weather API</strong> - Interactive weather application with real-time Updates, location search, responsive design, and dynamic weather icons based on conditions.
             </p>
           </div>
         </td>
