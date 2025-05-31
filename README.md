@@ -174,7 +174,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
             <br>
             <p>
               <a href="#" target="_blank">
-                <img src="./thyroidgoiter.png" alt="Status"/>
+                <img src="./thyroidgoiter.png" height="250px" alt="Status"/>
               </a>
             </p>
             <p>
