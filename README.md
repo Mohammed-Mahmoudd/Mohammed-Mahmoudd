@@ -174,7 +174,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
             <br>
             <p>
               <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+                <img src="./thyroidgoiter.png" alt="Status"/>
               </a>
             </p>
             <p>
