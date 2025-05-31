@@ -162,10 +162,10 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Coming Soon: Portfolio Website</h3>
+          <h3 align="center">Thyroid Goiter Website</h3>
           <div align="center">  
             <a href="#" target="_blank">
-              <img src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg" alt="Portfolio Website Coming Soon" height="250px" />
+              <img src="./thyroidgoiter.png" alt="Portfolio Website Coming Soon" height="250px" />
             </a>
             <br>
             <br>
