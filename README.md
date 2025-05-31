@@ -164,9 +164,12 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
         <td width="50%">
           <h3 align="center">Thyroid Goiter Website</h3>
           <div align="center">  
-            <a href="#" target="_blank">
-              <img src="./thyroidgoiter.png" alt="Portfolio Website Coming Soon" height="250px" />
-            </a>
+            <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
+                <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+              </a>  
+              <a href="https://mohammed-mahmoudd.github.io/Thyroid-Goiter-Ablation-Center-UAE_Website/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
+              </a>
             <br>
             <br>
             <p>
@@ -175,7 +178,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
               </a>
             </p>
             <p>
-              <strong>HTML, CSS, JavaScript & React</strong> - My personal portfolio website showcasing all my projects, skills, and professional journey. Coming soon with advanced animations and interactive elements!
+              <strong>HTML, CSS , JavaScript & JQuery </strong> - A responsive medical website designed to educate users about thyroid diseases, providing clear information on diagnosis and treatment in a user-friendly layout.
             </p>
           </div>
         </td>
