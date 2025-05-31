@@ -164,17 +164,17 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
         <td width="50%">
           <h3 align="center">Thyroid Goiter Website</h3>
           <div align="center">  
+            <br>
+              <a href="#" target="_blank">
+                <img src="./thyroidgoiter.png" height="250px" alt="Status"/>
+              </a>
+            <br>
+            <p>
             <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
                 <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>  
               <a href="https://mohammed-mahmoudd.github.io/Thyroid-Goiter-Ablation-Center-UAE_Website/" target="_blank">
                 <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
-              </a>
-            <br>
-            <br>
-            <p>
-              <a href="#" target="_blank">
-                <img src="./thyroidgoiter.png" height="250px" alt="Status"/>
               </a>
             </p>
             <p>
