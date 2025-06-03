@@ -140,26 +140,6 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
         </td>
       </tr>
       <tr>
-        <td width="50%">
-          <h3 align="center">To-Do App</h3>
-          <div align="center">  
-            <a href="https://github.com/mohammed-mahmoudd/To-Do-App" target="_blank">
-              <img src="todoapp.png" alt="To-Do App" height="250px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/mohammed-mahmoudd/To-Do-App" target="_blank">
-                <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-              </a>  
-              <a href="https://mohammed-mahmoudd.github.io/To-Do-App/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
-              </a>
-            </p>
-            <p>
-              <strong>HTML, CSS & JavaScript</strong> - Feature-rich task management application with local storage functionality, task categorization, drag-and-drop interface, and clean, intuitive design.
-            </p>
-          </div>
         </td>
         <td width="50%">
           <h3 align="center">Thyroid Goiter Website</h3>
@@ -182,6 +162,26 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
             </p>
           </div>
         </td>
+        <td width="50%">
+          <h3 align="center">To-Do App</h3>
+          <div align="center">  
+            <a href="https://github.com/mohammed-mahmoudd/To-Do-App" target="_blank">
+              <img src="todoapp.png" alt="To-Do App" height="250px" />
+            </a>
+            <br>
+            <br>
+            <p>
+              <a href="https://github.com/mohammed-mahmoudd/To-Do-App" target="_blank">
+                <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+              </a>  
+              <a href="https://mohammed-mahmoudd.github.io/To-Do-App/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
+              </a>
+            </p>
+            <p>
+              <strong>HTML, CSS & JavaScript</strong> - Feature-rich task management application with local storage functionality, task categorization, drag-and-drop interface, and clean, intuitive design.
+            </p>
+          </div>
       </tr>
     </table>
   </div>
