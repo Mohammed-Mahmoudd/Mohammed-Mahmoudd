@@ -24,7 +24,7 @@
 
 > *"Building the web, one pixel-perfect interface at a time."*
 
-I'm a **Front-End Developer** with a passion for creating intuitive and engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I transform design concepts into responsive, interactive interfaces that users love.
+I'm a **Front-End Developer** With a deep commitment for creating intuitive and engaging web experiences. With a strong foundation in HTML, CSS, JavaScript and React, I transform design concepts into responsive, interactive interfaces that users love.
 
 - 🔭 Currently working on expanding my React.js expertise
 - 🌱 Learning advanced JavaScript frameworks and libraries
