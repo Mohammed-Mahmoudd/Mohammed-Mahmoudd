@@ -138,6 +138,8 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
             </p>
           </div>
         </td>
+      </tr>
+      <tr>
         <td width="50%">
           <h3 align="center">Weather App</h3>
           <div align="center">  
@@ -159,8 +161,6 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
             </p>
           </div>
         </td>
-      </tr>
-      <tr>
         </td>
         <td width="50%">
           <h3 align="center">To-Do App</h3>
