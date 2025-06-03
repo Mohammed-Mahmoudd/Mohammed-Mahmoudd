@@ -97,23 +97,23 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
     <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Weather App</h3>
+          <h3 align="center">Thyroid Goiter Website</h3>
           <div align="center">  
-            <a href="https://github.com/mohammed-mahmoudd/Weather-App" target="_blank">
-              <img src="weatherApp.png" alt="Weather App" height="250px" />
-            </a>
             <br>
+              <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
+                <img src="./thyroidgoiter.png" height="250px" alt="Status"/>
+              </a>
             <br>
             <p>
-              <a href="https://github.com/mohammed-mahmoudd/Weather-App" target="_blank">
+            <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
                 <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>  
-              <a href="https://mohammed-mahmoudd.github.io/Weather-App/" target="_blank">
+              <a href="https://mohammed-mahmoudd.github.io/Thyroid-Goiter-Ablation-Center-UAE_Website/" target="_blank">
                 <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
               </a>
             </p>
             <p>
-              <strong>HTML, CSS, JavaScript & Weather API</strong> - Interactive weather application with real-time Updates, location search, responsive design, and dynamic weather icons based on conditions.
+              <strong>HTML, CSS , JavaScript & JQuery </strong> - A responsive medical website designed to educate users about thyroid diseases, providing clear information on diagnosis and treatment in a user-friendly layout.
             </p>
           </div>
         </td>
@@ -138,29 +138,29 @@ I'm a **Front-End Developer** With a deep commitment for creating intuitive and 
             </p>
           </div>
         </td>
-      </tr>
-      <tr>
-        </td>
         <td width="50%">
-          <h3 align="center">Thyroid Goiter Website</h3>
+          <h3 align="center">Weather App</h3>
           <div align="center">  
+            <a href="https://github.com/mohammed-mahmoudd/Weather-App" target="_blank">
+              <img src="weatherApp.png" alt="Weather App" height="250px" />
+            </a>
             <br>
-              <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
-                <img src="./thyroidgoiter.png" height="250px" alt="Status"/>
-              </a>
             <br>
             <p>
-            <a href="https://github.com/mohammed-mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
+              <a href="https://github.com/mohammed-mahmoudd/Weather-App" target="_blank">
                 <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>  
-              <a href="https://mohammed-mahmoudd.github.io/Thyroid-Goiter-Ablation-Center-UAE_Website/" target="_blank">
+              <a href="https://mohammed-mahmoudd.github.io/Weather-App/" target="_blank">
                 <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
               </a>
             </p>
             <p>
-              <strong>HTML, CSS , JavaScript & JQuery </strong> - A responsive medical website designed to educate users about thyroid diseases, providing clear information on diagnosis and treatment in a user-friendly layout.
+              <strong>HTML, CSS, JavaScript & Weather API</strong> - Interactive weather application with real-time Updates, location search, responsive design, and dynamic weather icons based on conditions.
             </p>
           </div>
+        </td>
+      </tr>
+      <tr>
         </td>
         <td width="50%">
           <h3 align="center">To-Do App</h3>
