@@ -98,8 +98,8 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=radical&border_radius=10" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&count_private=true&theme=radical&border_radius=10&cache_seconds=1800" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
