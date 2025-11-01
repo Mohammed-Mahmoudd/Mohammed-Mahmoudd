@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=white&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=ffffff&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
   <h2>💫 Welcome to my coding universe! 💫</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Laravel+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -49,6 +49,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -93,20 +94,20 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=onedark&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=tokyonight&border_radius=10" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=radical&border_radius=10" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=tokyonight&border_radius=10" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=radical&border_radius=10" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=0d1117&color=f85d7f&line=a855f7&point=58a6ff&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 ---
