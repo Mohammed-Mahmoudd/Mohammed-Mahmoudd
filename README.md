@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=white&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=white&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
   <h2>💫 Welcome to my coding universe! 💫</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Laravel+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Laravel+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -93,20 +93,20 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=algolia&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=onedark&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&border_radius=10" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=algolia&border_radius=10" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=tokyonight&border_radius=10" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=algolia&border_radius=10" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=tokyonight&border_radius=10" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=050F2C&color=58A6FF&line=149414&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 ---
