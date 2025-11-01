@@ -187,7 +187,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
           <h3 align="center">Rowad Holding</h3>
           <div align="center">  
             <a href="https://rowadholding.com/" target="_blank">
-              <img src="./rowad.png" alt="Rowad Holding" height="250px" />
+              <img src="./alrowad.png" alt="Rowad Holding" height="250px" />
             </a>
             <br>
             <br>
