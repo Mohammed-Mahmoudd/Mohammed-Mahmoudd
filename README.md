@@ -192,7 +192,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
             <br>
             <br>
             <p>
-              <a href="[https://github.com/mohammed-mahmoudd](https://github.com/Mohammed-Mahmoudd/Al-Rowad)" target="_blank">
+              <a href="https://github.com/Mohammed-Mahmoudd/Al-Rowad" target="_blank">
                 <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
               </a>  
               <a href="https://rowadholding.com/" target="_blank">
