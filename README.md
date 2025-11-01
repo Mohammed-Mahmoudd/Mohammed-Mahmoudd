@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="wave-haikei.svg" width="100%" />
-</div>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=white&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 
 </div>
