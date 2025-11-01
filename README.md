@@ -135,7 +135,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
               </a>  
             </p>
             <p>
-              <strong>React, Node.js, Express & MySQL</strong> - Comprehensive educational platform with student management system, course enrollment, interactive dashboards, and real-time notifications. Features secure authentication and role-based access control.
+              <strong>Next.js, Three.js, CMS System</strong> - Comprehensive educational platform with student management system, course enrollment, interactive dashboards, and real-time notifications. Features secure authentication and role-based access control.
             </p>
           </div>
         </td>
@@ -156,7 +156,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
               </a>  
             </p>
             <p>
-              <strong>Laravel, PHP, MySQL & Bootstrap</strong> - Enterprise-level business platform featuring complex data management, multi-user authentication, analytics dashboard, and RESTful API integration. Built with MVC architecture for scalability.
+              <strong>Next.js, tailwind css</strong> - Enterprise-level business platform featuring complex data management, multi-user authentication, analytics dashboard, and RESTful API integration. Built with MVC architecture for scalability.
             </p>
           </div>
         </td>
@@ -200,7 +200,7 @@ I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and
               </a>
             </p>
             <p>
-              <strong>React, Three.js, Tailwind CSS & Node.js</strong> - Modern corporate website featuring stunning 3D elements, smooth animations, dynamic portfolio showcase, and immersive user experience built with cutting-edge web technologies.
+              <strong>HTML, Bootstrap, JavaScript</strong> - Modern corporate website featuring stunning 3D elements, smooth animations, dynamic portfolio showcase, and immersive user experience built with cutting-edge web technologies.
             </p>
           </div>
       </tr>
