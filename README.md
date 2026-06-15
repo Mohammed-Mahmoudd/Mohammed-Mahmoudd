@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 > *"Building the web, from backend to pixel-perfect interfaces."*
 
