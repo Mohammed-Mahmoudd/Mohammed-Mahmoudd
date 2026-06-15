@@ -1,179 +1,238 @@
-<div align="center">
-
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0d0d1a&height=3&section=header" width="100%"/>
-
-<br/>
-
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-```
-
-<br/>
-
-**`Full-Stack Developer`** &nbsp;·&nbsp; **`React · Next.js · Node.js · Three.js`** &nbsp;·&nbsp; **`cairo, egypt`**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-a633a6310/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=google-chrome&logoColor=black)](https://www.mohammed-mahmoud.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gamermada2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammed-Mahmoudd)
-![Profile Views](https://komarev.com/ghpvc/?username=mohammed-mahmoudd&style=flat-square&color=4f46e5&label=views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mohamed%20Mahmoud&fontColor=ffffff&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 
 </div>
 
-<br/>
-
----
-
-## About
-
-I'm a **Full-Stack Developer** focused on building scalable, production-grade web applications — from pixel-perfect interfaces to resilient backend systems. I work across the full stack with a particular interest in 3D web experiences and cross-platform mobile development.
-
-- Currently building immersive 3D web experiences with **Three.js**
-- Specializing in **React**, **Next.js**, **Node.js**, **Express**, and **Laravel**
-- Developing cross-platform mobile applications with **React Native**
-- Available for freelance collaborations and full-time opportunities
-
-<br/>
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-**Mobile & Tools**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<br/>
-
----
-
-## GitHub Analytics
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed123m/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gamermada2@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+ 
+  <img src="https://komarev.com/ghpvc/?username=mohammed-mahmoudd&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=4f46e5&border_radius=6&hide_border=false" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_radius=6&hide_border=false" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=github-dark-blue&border=30363d&background=0d1117&ring=4f46e5&fire=818cf8&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d&border_radius=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=0d1117&color=8b949e&line=4f46e5&point=818cf8&area=true&area_color=4f46e520&hide_border=true&radius=6" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=onestar&no-frame=true&row=1&column=7&title_color=e6edf3&text_color=8b949e&margin-w=6" width="100%"/>
-
+  <h2>💫 Welcome to my coding universe! 💫</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+Expert;3D+Web+Experiences+with+Three.js;Mobile+Development+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+> *"Building the web, from backend to pixel-perfect interfaces."*
+
+I'm a **Full-Stack Developer** with a deep commitment for creating intuitive and scalable web experiences. With expertise spanning frontend, backend, mobile development, and 3D web graphics, I transform ideas into powerful, responsive applications that users love.
+
+- 🔭 Currently working on immersive 3D web experiences with Three.js
+- 🌱 Mastering full-stack development with React, Node.js, Express, Laravel
+- 📱 Building cross-platform mobile applications with React Native
+- 💬 Ask me about responsive design, REST APIs, and modern web architecture
+- ⚡ Fun fact: I debug with rubber duck debugging technique!
 
 ---
 
-## Featured Project
-
 <div align="center">
-
-### Personal Portfolio — [mohammed-mahmoud.com](https://www.mohammed-mahmoud.com/)
-
-<br/>
-
-<a href="https://www.mohammed-mahmoud.com/" target="_blank">
-  <img src="./1781509749826_image.png" width="80%" style="border-radius: 8px; border: 1px solid #30363d;" alt="Mohammed Mahmoud Portfolio"/>
-</a>
-
-<br/><br/>
-
-[![Live](https://img.shields.io/badge/Live_Site-4f46e5?style=flat-square&logo=google-chrome&logoColor=white)](https://www.mohammed-mahmoud.com/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammed-Mahmoudd)
-
-<br/>
-
-**Next.js · Three.js · Tailwind CSS · Framer Motion**
-
-A personal developer portfolio featuring immersive 3D web experiences, smooth scroll animations, and a fully responsive layout. Built with a focus on performance, visual identity, and modern web architecture.
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-<br/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
+
+<div align="center">
+  
+  ### 🎨 Frontend Technologies
+  
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design" />
+  </p>
+  
+  ### ⚙️ Backend Technologies
+  
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  </p>
+
+  ### 📱 Mobile Development
+  
+  <p>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+    <img src="https://img.shields.io/badge/Cross_Platform-4285F4?style=for-the-badge&logo=mobile&logoColor=white" alt="Cross Platform" />
+  </p>
+  
+  ### 🛠️ Tools & Platforms
+  
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  </p>
+</div>
 
 ---
 
-## Coding in Action
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-
-https://github.com/Mohammed-Mahmoudd/Mohammed-Mahmoudd/assets/cat.mp4
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mahmoudd&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&count_private=true&theme=radical&border_radius=10&cache_seconds=1800" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" alt="Most used languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&theme=radical&border_radius=10" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=0d1117&color=f85d7f&line=a855f7&point=58a6ff&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+</div>
 
 ---
 
-## Connect
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
-
-Open to freelance projects, full-time roles, and technical collaborations.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-a633a6310/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.mohammed-mahmoud.com/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamermada2@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Mahmoudd)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
+<div class="projects-container">
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Tchaikovsky School</h3>
+          <div align="center">  
+            <br>
+              <a href="https://tchaikovskyschool.com/" target="_blank">
+                <img src="./ts.png" height="250px" alt="Tchaikovsky School"/>
+              </a>
+            <br>
+            <p>
+              <a href="https://tchaikovskyschool.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+              </a>
+              <a href="#" target="_blank">
+                <img src="https://img.shields.io/badge/Private_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Private Repository"/>
+              </a>  
+            </p>
+            <p>
+              <strong>Next.js, Three.js, CMS System</strong> - Comprehensive educational platform with student management system, course enrollment, interactive dashboards, and real-time notifications. Features secure authentication and role-based access control.
+            </p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">Elmetr Platform</h3>
+          <div align="center">  
+            <a href="https://elmetr.com/" target="_blank">
+              <img src="./elmetr.png" height="250px" />
+            </a>
+            <br>
+            <br>
+            <p>
+              <a href="https://elmetr.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+              </a>
+              <a href="#" target="_blank">
+                <img src="https://img.shields.io/badge/Private_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Private Repository"/>
+              </a>  
+            </p>
+            <p>
+              <strong>Next.js, tailwind css</strong> - Enterprise-level business platform featuring complex data management, multi-user authentication, analytics dashboard, and RESTful API integration. Built with MVC architecture for scalability.
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Dr. Jamal Eldeen Website</h3>
+          <div align="center">  
+            <a href="https://www.thyroidgoiteruae.com/" target="_blank">
+              <img src="./doc.png" alt="Dr. Jamal Eldeen" height="250px" />
+            </a>
+            <br>
+            <br>
+            <p>
+              <a href="https://github.com/Mohammed-Mahmoudd/Thyroid-Goiter-Ablation-Center-UAE_Website" target="_blank">
+                <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+              </a>  
+              <a href="https://www.thyroidgoiteruae.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+              </a>
+            </p>
+            <p>
+              <strong>HTML5, CSS3, JavaScript & jQuery</strong> - Professional medical website with appointment booking system, patient information portal, interactive service showcases, and fully responsive design optimized for all devices.
+            </p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">Rowad Holding</h3>
+          <div align="center">  
+            <a href="https://rowadholding.com/" target="_blank">
+              <img src="./alrowad.png" alt="Rowad Holding" height="250px" />
+            </a>
+            <br>
+            <br>
+            <p>
+              <a href="https://github.com/Mohammed-Mahmoudd/Al-Rowad" target="_blank">
+                <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+              </a>  
+              <a href="https://rowadholding.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-20BEFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+              </a>
+            </p>
+            <p>
+              <strong>HTML, Bootstrap, JavaScript</strong> - Modern corporate website featuring stunning 3D elements, smooth animations, dynamic portfolio showcase, and immersive user experience built with cutting-edge web technologies.
+            </p>
+          </div>
+      </tr>
+    </table>
+  </div>
 </div>
 
-<br/>
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
-<sub>Designed & built by Mohammed Mahmoud · <a href="https://www.mohammed-mahmoud.com/">mohammed-mahmoud.com</a></sub>
+  <p>Let's connect and discuss how we can work together!</p>
+  
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-a633a6310/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:gamermada2@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" height="35" width="35" />
+  </a>
+  <a href="https://github.com/mohammed-mahmoudd">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  
+  <p>💬 Feel free to reach out for collaborations or just a friendly chat!</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%">
+</div>
+
+<div align="center">
+  <h3>⚡ Full-stack development is an art, and I'm architecting the future! ⚡</h3>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
