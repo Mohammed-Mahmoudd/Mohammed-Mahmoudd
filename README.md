@@ -28,10 +28,10 @@ I'm a Full-Stack Developer committed to crafting web experiences that are fast, 
 
 <div align="center">
 
-> Click to watch my coding journey
+### Watch My Intro
 
-<a href="https://github.com/Mohammed-Mahmoudd/Mohammed-Mahmoudd/raw/refs/heads/root/cat.mp4">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20My%20Intro%20Video-00C8FF?style=for-the-badge&logoColor=080C14" alt="Watch Video"/>
+<a href="https://github.com/Mohammed-Mahmoudd/Mohammed-Mahmoudd/blob/root/cat.mp4">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C14,100:0a1628&height=120&text=%E2%96%B6%20Play%20Video&fontColor=00C8FF&fontSize=28&desc=Click%20to%20watch%20my%20intro&descFontColor=ffffff&descSize=14" width="480" alt="Watch Intro Video" style="border-radius:12px; border: 2px solid #00C8FF;"/>
 </a>
 
 </div>
@@ -95,21 +95,25 @@ I'm a Full-Stack Developer committed to crafting web experiences that are fast, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&count_private=true&theme=transparent&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&border_color=00C8FF&border_radius=10&cache_seconds=1800" height="170"/>
+<!-- Total stats: show_icons, count_private, include_all_commits for all-time totals -->
+<img src="https://github-readme-stats.vercel.app/api?username=mohammed-mahmoudd&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&border_color=00C8FF&border_radius=10&cache_seconds=1800&hide=contribs" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&theme=transparent&title_color=00C8FF&text_color=ffffff&border_color=00C8FF&border_radius=10&cache_seconds=1800" height="170"/>
+<!-- Language breakdown: compact layout, all repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mahmoudd&layout=compact&langs_count=8&count_private=true&theme=transparent&title_color=00C8FF&text_color=ffffff&border_color=00C8FF&border_radius=10&cache_seconds=1800" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&background=080C14&border=00C8FF&stroke=00C8FF&ring=00C8FF&fire=ffffff&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border_radius=10"/>
+<!-- Streak: all-time total contributions, longest streak, current streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahmoudd&background=080C14&border=00C8FF&stroke=00C8FF&ring=00C8FF&fire=ffffff&currStreakLabel=00C8FF&sideLabels=00C8FF&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border_radius=10&mode=weekly" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=080C14&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF&hide_border=false&border_color=00C8FF&radius=10" width="98%" alt="Activity Graph"/>
+<!-- Activity graph: all contributions over time -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoudd&bg_color=080C14&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF&hide_border=false&border_color=00C8FF&radius=10&custom_title=Mohammed%20Mahmoud's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -201,15 +205,15 @@ Let's connect and build something great together.
 <br/>
 
 <a href="https://www.linkedin.com/in/mohamed-mahmoud-a633a6310/">
-  <img src="https://img.shields.io/badge/LinkedIn-00C8FF?style=for-the-badge&logo=linkedin&logoColor=080C14" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00C8FF?style=for-the-badge&logo=linkedin&logoColor=080C14"/>
 </a>
 &nbsp;
 <a href="mailto:gamermada2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00C8FF?style=for-the-badge&logo=gmail&logoColor=080C14" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-00C8FF?style=for-the-badge&logo=gmail&logoColor=080C14"/>
 </a>
 &nbsp;
 <a href="https://github.com/mohammed-mahmoudd">
-  <img src="https://img.shields.io/badge/GitHub-00C8FF?style=for-the-badge&logo=github&logoColor=080C14" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-00C8FF?style=for-the-badge&logo=github&logoColor=080C14"/>
 </a>
 
 </div>
@@ -217,9 +221,7 @@ Let's connect and build something great together.
 ---
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,60:0a1628,100:080C14&height=120&section=footer" width="100%"/>
